@@ -1,5 +1,5 @@
 # tgbot
-Bot via Telegram to control your PC
+bot via Telegram to control your PC
 
 it's not a malware :d
 
