@@ -1,7 +1,7 @@
 # tgbot
-~ Bot via Telegram to control your PC
+Bot via Telegram to control your PC
 
-~ Don't use it as malware :d
+Don't use it as malware :d
 
 # What bot can
 - download through telegram
