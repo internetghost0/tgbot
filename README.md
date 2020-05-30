@@ -1,7 +1,7 @@
 # tgbot
 Bot via Telegram to control your PC
 
-It's not a malware :d
+it's not a malware :d
 
 # What bot can
 - download through telegram
@@ -15,8 +15,8 @@ It's not a malware :d
 
 #  Install
 - $ git clone https://github.com/internetghost0/tgbot
-- Get BOT_API in @BotFather
-- Use @myidbot to find out your id
-- Change some configs in main.cs
-- Add https://github.com/TelegramBots/telegram.bot in your project for Telegram API
-- Compile program
+- get BOT_API in @BotFather
+- use @myidbot to find out your id
+- change some configs in main.cs
+- add https://github.com/TelegramBots/telegram.bot in your project for Telegram API
+- compile program
